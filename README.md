@@ -16,6 +16,9 @@ When a user clicks the "View" button, the details for that particular user will 
 Cache
 It will cache the user details. Once the "View" button is clicked, the details will be save in the session storage. Thus, when the user reload the page, it will show the user details that cache before the page load.
 
+![image](https://user-images.githubusercontent.com/79394336/120064691-213edb80-c0a0-11eb-8efb-b2cfb66809b2.png)
+
+
 Path
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Include function to rewrite/users to load custom template (load endpoint): templateexternal-users\external-users\public\class-external-users-public.php
