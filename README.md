@@ -11,6 +11,7 @@ Notes
 Extract the zip folder and place in public_html\public_html\wp-content\plugins\{external-users}.
 
 When a user clicks the "View" button, the details for that particular user will be shown without reload the page (Using AJAX).
+![image](https://user-images.githubusercontent.com/79394336/120064434-ae813080-c09e-11eb-949b-ca6eeba1d886.png)
 
 Cache
 It will cache the user details. Once the "View" button is clicked, the details will be save in the session storage. Thus, when the user reload the page, it will show the user details that cache before the page load.
