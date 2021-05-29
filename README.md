@@ -15,8 +15,11 @@ It will cache the user details. Once the "View" button is clicked, the details w
 
 Path
 Include function to rewrite/users to load custom template (load endpoint): templateexternal-users\external-users\public\class-external-users-public.php
+
 Fetching data (endpoint): external-users\external-users\public\template\users.php
+
 Js: external-users\external-users\public\js\external-users-public.js
+
 Add script & css: external-users\admin\class-external-users-admin.php
 
 
