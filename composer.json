@@ -1,0 +1,11 @@
+{
+	"name":"SinEeOoi/WordPress-Plugin",
+	"description":"User table plugin for WordPress (Inpsyde)",
+	"type":"wordpress-usertable-plugin",
+	"author":"[
+		{
+			"name":"Sin Ee",
+			"email":"ooishino98@gmail.com"
+		}
+	]"
+}
